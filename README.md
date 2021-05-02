@@ -8,7 +8,7 @@
 ### **Flask Methods**
 * ```Redirect()``` Redirection to URL that given as parameter
 * ```url_for()```  Generating a URL with given endpoint.
-* ```render_template()```  Grap html file render that as our web page
+* ```render_template()```  Grab html file render that as our web page
 
 
 
