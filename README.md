@@ -18,3 +18,6 @@
 * ```{% endif %}``` You have to make a point for finish if statement
 * ```{% for %}```   For loop in Html
 * ```{% endfor %}```  You have to make a point for finish for loop
+
+### **Notes**
+* You have to make templates folder in your directory if you want to use ```render_template(template)```
