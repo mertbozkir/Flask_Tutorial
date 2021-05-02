@@ -2,7 +2,7 @@
 
 ### **Core Commands**
 * Install Flask framework ```pip install flask```
-* Execution Flask app ```export FLASK_APP=main.py && flask run```
+* Execution Flask app ```export FLASK_APP=main.py && flask run```  or ```python main.py```
 * Quiting Flask app ```CTRL+C```    combination. 
 
 ### **Flask Methods**
