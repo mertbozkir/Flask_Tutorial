@@ -13,7 +13,7 @@
 
 
 ### **Python in HTML**
-* ```{{value}}```  You have to use this syntax to pass information to website
+* ```{{value}}```  You have to use this syntax to pass information to the website
 * ```{% if %}```   If statement in Html 
 * ```{% endif %}``` You have to make a point for finish if statement
 * ```{% for %}```   For loop in Html
